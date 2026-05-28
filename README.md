@@ -6,11 +6,11 @@ I specialize in crafting clean, responsive user interfaces while also diving int
 
 ---
 
-## 🛠️ Technical Skills
-- **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express  
-- **Databases:** MySQL, MongoDB  
-- **Other Tools:** Git, VS Code, Figma  
+# 🛠️ Technical Skills
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Databases: MySQL, MongoDB, Firebase, Vercel (NoSQL)
+- Other Tools: Git, VS Code
 
 ---
 
