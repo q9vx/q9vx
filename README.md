@@ -1,36 +1,32 @@
-# Hi there 👋 I'm q9vx
+# 👋 Hello, I'm q9vx
 
-### 💻 Frontend & System Developer  
-I love building clean, interactive web systems and exploring the logic behind them — from UI concepts to backend architecture and database analysis.
+### Frontend Developer | Backend Explorer | System Analyst
+
+I specialize in crafting clean, responsive user interfaces while also diving into backend logic and database analysis. My passion lies in solving problems through code, exploring system design, and continuously learning new technologies.
 
 ---
 
-### 🚀 Tech Stack
+## 🛠️ Technical Skills
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Backend:** Node.js, Express  
-- **Database:** MySQL, MongoDB  
-- **Tools:** Git, VS Code, Figma  
+- **Databases:** MySQL, MongoDB  
+- **Other Tools:** Git, VS Code, Figma  
 
 ---
 
-### 🧠 What I’m Into
-- Creating intuitive **UI/UX** experiences  
-- Analyzing and optimizing **database structures**  
-- Exploring **system design** and performance  
-- Coding random ideas just for fun  
+## 📂 Featured Projects
+- **Appointment-System-SDO-Navotas** – A web-based appointment system concept for streamlined scheduling.  
+- **LOAFY’S HUNGARIAN ROLL** – Branding and business presentation site showcasing product identity.  
+- **SMOLMOONVA-SITE** – Personal portfolio built with modern web technologies.  
 
 ---
 
-### 📂 Featured Projects
-- **Appointment-System-SDO-Navotas** – Web-based appointment system concept  
-- **LOAFY-S-HUNGARIAN-ROLL** – Product branding and business presentation site  
-- **SMOLMOONVA-SITE** – Personal portfolio built with modern web technologies  
+## 🌱 Currently Exploring
+- Advanced **React patterns** and performance optimization  
+- **API integration** and backend scalability  
+- **Data visualization** and analytics for smarter insights  
 
 ---
 
-### 🌱 Currently Learning
-- Advanced **React patterns**  
-- **API integration** and backend scaling  
-- **Data visualization** and analytics  
 
----
+> *“Code is not just logic — it’s creativity expressed in syntax.”*
