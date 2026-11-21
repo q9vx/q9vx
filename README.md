@@ -1,6 +1,8 @@
 # 👋 Hey, I'm Q9.
 
-### Full-Stack Developer | Frontend-Focused | Visual Design Enthusiast
+### BSIT Student (1st Year) | Full-Stack Developer | Visual Design Enthusiast
+
+> I build for the web.
 
 I build for the web.
 
