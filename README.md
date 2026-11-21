@@ -61,7 +61,7 @@ Projects I've built and contributed to, combining development, functionality, an
 
 An official contributor and QA game tester for a Roblox studio community.
 
-- Contribute to game testing and quality assurance.
+- Contribute to game Developer and Quality assurance.
 - Help identify issues and evaluate gameplay experiences.
 - Part of a community with **18.3K+ members** and games reaching **8.8M+ visits**.
 
