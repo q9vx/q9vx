@@ -4,8 +4,6 @@
 
 > I build for the web.
 
-I build for the web.
-
 I'm a developer from the Philippines focused on creating functional, responsive, and well-designed web experiences. My work centers on frontend development, with experience across backend technologies, databases, and deployment.
 
 I enjoy working where design and code meet — building interfaces that don't just work, but also feel intuitive and look good. With an **NC III certification in Visual Graphic Design**, I bring a visual perspective to my development workflow.
